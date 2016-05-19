@@ -17,3 +17,7 @@ if($articles == false){
     echo $scraper->errorMessage;
 }
 ~~~
+
+# 動作確認出来ているブログ(2016/5/19時点)
+http://ameblo.jp/famigeki/
+(結構ブログによってclass名とか違うのですね…パターンを見つけないと…)
